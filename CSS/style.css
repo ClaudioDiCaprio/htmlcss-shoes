@@ -15,8 +15,14 @@ header {
     top: 0;
     
 }
-header nav {
+header nav li {
     display: inline-block;
+    margin: 25px 12px 0; 
+    color: black;
+}
+
+a{
+    text-decoration: none;
 }
 
 /* header */
