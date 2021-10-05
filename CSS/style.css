@@ -79,4 +79,14 @@ header nav ul li a {
     background-color: red;
     color:yellow ;
 }
+
+#green_cheese {
+    background-color: green;
+    color: yellow;
+}
+
+#yellow_cheese {
+    background-color: yellow;
+    color: green;
+}
 /* colors */
