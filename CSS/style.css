@@ -5,3 +5,18 @@
     box-sizing: border-box;
     font-family: 'Rubik Mono One', sans-serif;
 }
+
+/* header */
+header {
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    
+}
+header nav {
+    display: inline-block;
+}
+
+/* header */
