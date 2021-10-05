@@ -44,3 +44,39 @@ header nav ul li a {
 } 
 
 /* header */
+
+/* main */
+
+.container .flag {
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+
+
+/* /main */
+
+/* position */
+.container .flag .cheese {
+    position: absolute;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}    
+.container .flag .cheese img{
+    width: 100%;
+
+}
+/* position */
+
+/* colors */
+#red_cheese {
+    background-color: red;
+    color:yellow ;
+}
+/* colors */
